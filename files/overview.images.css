@@ -1,26 +1,26 @@
 .section .image-a12x-chip-screen {
-    background-image: url("/cn/ipad-pro/images/overview/a12x_chip_screen__c23fgo6bz26a_large.jpg")}
+    background-image: url("../image/pxcook.png")}
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
     .section .image-a12x-chip-screen {
-        background-image: url("/cn/ipad-pro/images/overview/a12x_chip_screen__c23fgo6bz26a_large_2x.jpg")}}
+        background-image: url("../image/pxcook.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) {
     .section .image-a12x-chip-screen {
-        background-image: url("/cn/ipad-pro/images/overview/a12x_chip_screen__c23fgo6bz26a_medium.jpg")}}
+        background-image: url("../image/pxcook.png")}}
 @media only screen and (max-width: 1240px) {
     .section .image-a12x-chip-screen {
-        background-image: url("/cn/ipad-pro/images/overview/a12x_chip_screen__c23fgo6bz26a_medium.jpg")}}
+        background-image: url("../image/pxcook.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) {
     .section .image-a12x-chip-screen {
-        background-image: url("/cn/ipad-pro/images/overview/a12x_chip_screen__c23fgo6bz26a_medium.jpg")}}
+        background-image: url("../image/pxcook.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-a12x-chip-screen {
-        background-image: url("/cn/ipad-pro/images/overview/a12x_chip_screen__c23fgo6bz26a_medium_2x.jpg")}}
+        background-image: url("../image/pxcook.png")}}
 @media only screen and (max-width: 1240px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1240px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-width: 1240px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1240px) and (min-resolution: 144dpi) {
     .section .image-a12x-chip-screen {
-        background-image: url("/cn/ipad-pro/images/overview/a12x_chip_screen__c23fgo6bz26a_medium_2x.jpg")}}
+        background-image: url("../image/pxcook.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-a12x-chip-screen {
-        background-image: url("/cn/ipad-pro/images/overview/a12x_chip_screen__c23fgo6bz26a_medium_2x.jpg")}}
+        background-image: url("../image/pxcook.png")}}
         
 html.basic-interaction .section .image-a12x-chip, html.aow .section .image-a12x-chip,
 html.no-js .section .image-a12x-chip, html.ie .section .image-a12x-chip,
@@ -30,7 +30,7 @@ html.basic-interaction .section .image-a12x-chip, html.aow .section .image-a12x-
 html.no-js .section .image-a12x-chip, html.ie .section .image-a12x-chip,
 html.basic-interaction .section .image-a12x-chip, html.aow .section .image-a12x-chip,
 html.no-js .section .image-a12x-chip, html.ie .section .image-a12x-chip {
-    background-image: url("/cn/ipad-pro/images/overview/a12x_chip__cvnz50k7e6c2_small.jpg")
+    background-image: url("../image/pxcooks.png")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
@@ -42,7 +42,7 @@ html.no-js .section .image-a12x-chip, html.ie .section .image-a12x-chip {
     html.no-js .section .image-a12x-chip, html.ie .section .image-a12x-chip,
     html.basic-interaction .section .image-a12x-chip, html.aow .section .image-a12x-chip,
     html.no-js .section .image-a12x-chip, html.ie .section .image-a12x-chip {
-        background-image: url("/cn/ipad-pro/images/overview/a12x_chip__cvnz50k7e6c2_small_2x.jpg")
+        background-image: url("../image/pxcooks.png")
     }
 }
         
@@ -71,28 +71,28 @@ html.no-js .section .image-a12x-chip, html.ie .section .image-a12x-chip {
         background-image: url("/cn/ipad-pro/images/overview/pair_and_charge_screen__culgxmeg3be6_medium_2x.jpg")}}
         
 .section .image-face-id {
-    background-image: url("/cn/ipad-pro/images/overview/face_id__8ez3e4w0imay_large.jpg")}
+    background-image: url("../image/grid.png")}
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
     .section .image-face-id {
-        background-image: url("/cn/ipad-pro/images/overview/face_id__8ez3e4w0imay_large_2x.jpg")}}
+        background-image: url("../image/grid.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) {
     .section .image-face-id {
-        background-image: url("/cn/ipad-pro/images/overview/face_id__8ez3e4w0imay_medium.jpg")}}
+        background-image: url("../image/grid.png")}}
 @media only screen and (max-width: 1240px) {
     .section .image-face-id {
-        background-image: url("/cn/ipad-pro/images/overview/face_id__8ez3e4w0imay_medium.jpg")}}
+        background-image: url("../image/grid.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) {
     .section .image-face-id {
-        background-image: url("/cn/ipad-pro/images/overview/face_id__8ez3e4w0imay_medium.jpg")}}
+        background-image: url("../image/grid.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-face-id {
-        background-image: url("/cn/ipad-pro/images/overview/face_id__8ez3e4w0imay_medium_2x.jpg")}}
+        background-image: url("../image/grid.png")}}
 @media only screen and (max-width: 1240px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1240px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-width: 1240px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1240px) and (min-resolution: 144dpi) {
     .section .image-face-id {
-        background-image: url("/cn/ipad-pro/images/overview/face_id__8ez3e4w0imay_medium_2x.jpg")}}
+        background-image: url("../image/grid.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-face-id {
-        background-image: url("/cn/ipad-pro/images/overview/face_id__8ez3e4w0imay_medium_2x.jpg")}}
+        background-image: url("../image/grid.png")}}
         
 html.basic-interaction .section .image-face-id, html.aow .section .image-face-id,
 html.no-js .section .image-face-id, html.ie .section .image-face-id,
@@ -114,12 +114,12 @@ html.no-js .section .image-face-id, html.ie .section .image-face-id {
     html.no-js .section .image-face-id, html.ie .section .image-face-id,
     html.basic-interaction .section .image-face-id, html.aow .section .image-face-id,
     html.no-js .section .image-face-id, html.ie .section .image-face-id {
-        background-image: url("/cn/ipad-pro/images/overview/face_id__8ez3e4w0imay_small_2x.jpg")
+        background-image: url("../image/grids.png")
     }
 }
 
 .section .image-games-screen {
-    background-image: url("/cn/ipad-pro/images/overview/games_screen__dvzqlw0xhv8m_large.jpg")}
+    background-image: url("../image/app.png")}
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
     .section .image-games-screen {
         background-image: url("/cn/ipad-pro/images/overview/games_screen__dvzqlw0xhv8m_large_2x.jpg")}}
@@ -191,28 +191,28 @@ html.no-js .section .image-pair-and-charge, html.ie .section .image-pair-and-cha
 }
 
 .section .image-retina-screen-2 {
-    background-image: url("/cn/ipad-pro/images/overview/retina_screen_2__dg5i2euzd3ee_large.jpg")}
+    background-image: url("../image/ai.png")}
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
     .section .image-retina-screen-2 {
-        background-image: url("/cn/ipad-pro/images/overview/retina_screen_2__dg5i2euzd3ee_large_2x.jpg")}}
+        background-image: url("../image/ai.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) {
     .section .image-retina-screen-2 {
-        background-image: url("/cn/ipad-pro/images/overview/retina_screen_2__dg5i2euzd3ee_medium.jpg")}}
+        background-image: url("../image/ai.png")}}
 @media only screen and (max-width: 1240px) {
     .section .image-retina-screen-2 {
-        background-image: url("/cn/ipad-pro/images/overview/retina_screen_2__dg5i2euzd3ee_medium.jpg")}}
+        background-image: url("../image/ai.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) {
     .section .image-retina-screen-2 {
-        background-image: url("/cn/ipad-pro/images/overview/retina_screen_2__dg5i2euzd3ee_medium.jpg")}}
+        background-image: url("../image/ai.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-retina-screen-2 {
-        background-image: url("/cn/ipad-pro/images/overview/retina_screen_2__dg5i2euzd3ee_medium_2x.jpg")}}
+        background-image: url("../image/ai.png")}}
 @media only screen and (max-width: 1240px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1240px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-width: 1240px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1240px) and (min-resolution: 144dpi) {
     .section .image-retina-screen-2 {
-        background-image: url("/cn/ipad-pro/images/overview/retina_screen_2__dg5i2euzd3ee_medium_2x.jpg")}}
+        background-image: url("../image/ai.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-retina-screen-2 {
-        background-image: url("/cn/ipad-pro/images/overview/retina_screen_2__dg5i2euzd3ee_medium_2x.jpg")}}
+        background-image: url("../image/ai.png")}}
 
 html.basic-interaction .section .image-retina-screen-2, html.aow .section .image-retina-screen-2,
 html.no-js .section .image-retina-screen-2, html.ie .section .image-retina-screen-2,
@@ -222,7 +222,7 @@ html.basic-interaction .section .image-retina-screen-2, html.aow .section .image
 html.no-js .section .image-retina-screen-2, html.ie .section .image-retina-screen-2,
 html.basic-interaction .section .image-retina-screen-2, html.aow .section .image-retina-screen-2,
 html.no-js .section .image-retina-screen-2, html.ie .section .image-retina-screen-2 {
-    background-image: url("/cn/ipad-pro/images/overview/retina_screen_2__dg5i2euzd3ee_small.jpg")
+    background-image: url("../image/ais.png")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
@@ -234,7 +234,7 @@ html.no-js .section .image-retina-screen-2, html.ie .section .image-retina-scree
     html.no-js .section .image-retina-screen-2, html.ie .section .image-retina-screen-2,
     html.basic-interaction .section .image-retina-screen-2, html.aow .section .image-retina-screen-2,
     html.no-js .section .image-retina-screen-2, html.ie .section .image-retina-screen-2 {
-        background-image: url("/cn/ipad-pro/images/overview/retina_screen_2__dg5i2euzd3ee_small_2x.jpg")
+        background-image: url("../image/ais.png")
     }
 }
 
@@ -287,28 +287,28 @@ html.no-js .section .image-usb-c-screen, html.ie .section .image-usb-c-screen {
 }
 
 .section .image-apple-pay-startframe {
-    background-image: url("/cn/ipad-pro/images/overview/apple-pay_startframe__eo1qd2ad4i2q_large.jpg")}
+    background-image: url("../image/symbol.png")}
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
     .section .image-apple-pay-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/apple-pay_startframe__eo1qd2ad4i2q_large_2x.jpg")}}
+        background-image: url("../image/symbol.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) {
     .section .image-apple-pay-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/apple-pay_startframe__eo1qd2ad4i2q_medium.jpg")}}
+        background-image: url("../image/symbol.png")}}
 @media only screen and (max-width: 1375px) {
     .section .image-apple-pay-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/apple-pay_startframe__eo1qd2ad4i2q_medium.jpg")}}
+        background-image: url("../image/symbol.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) {
     .section .image-apple-pay-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/apple-pay_startframe__eo1qd2ad4i2q_medium.jpg")}}
+        background-image: url("../image/symbol.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-apple-pay-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/apple-pay_startframe__eo1qd2ad4i2q_medium_2x.jpg")}}
+        background-image: url("../image/symbol.png")}}
 @media only screen and (max-width: 1375px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1375px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-width: 1375px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1375px) and (min-resolution: 144dpi) {
     .section .image-apple-pay-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/apple-pay_startframe__eo1qd2ad4i2q_medium_2x.jpg")}}
+        background-image: url("../image/symbol.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-apple-pay-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/apple-pay_startframe__eo1qd2ad4i2q_medium_2x.jpg")}}
+        background-image: url("../image/symbol.png")}}
 
 html.basic-interaction .section .image-apple-pay-startframe, html.aow .section .image-apple-pay-startframe,
 html.no-js .section .image-apple-pay-startframe, html.ie .section .image-apple-pay-startframe,
@@ -318,7 +318,7 @@ html.basic-interaction .section .image-apple-pay-startframe, html.aow .section .
 html.no-js .section .image-apple-pay-startframe, html.ie .section .image-apple-pay-startframe,
 html.basic-interaction .section .image-apple-pay-startframe, html.aow .section .image-apple-pay-startframe,
 html.no-js .section .image-apple-pay-startframe, html.ie .section .image-apple-pay-startframe {
-    background-image: url("/cn/ipad-pro/images/overview/apple-pay_startframe__eo1qd2ad4i2q_small.jpg")
+    background-image: url("../image/symbol.png")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
@@ -330,7 +330,7 @@ html.no-js .section .image-apple-pay-startframe, html.ie .section .image-apple-p
     html.no-js .section .image-apple-pay-startframe, html.ie .section .image-apple-pay-startframe,
     html.basic-interaction .section .image-apple-pay-startframe, html.aow .section .image-apple-pay-startframe,
     html.no-js .section .image-apple-pay-startframe, html.ie .section .image-apple-pay-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/apple-pay_startframe__eo1qd2ad4i2q_small_2x.jpg")
+        background-image: url("../image/symbol.png")
     }
 }
 .section .image-double-tap-startframe {
@@ -407,28 +407,28 @@ html.no-js .section .image-double-tap-endframe, html.ie .section .image-double-t
 }
 
 .section .image-multitasking-startframe {
-    background-image: url("/cn/ipad-pro/images/overview/multitasking_startframe__gedjonnsv6i6_large.jpg")}
+    background-image: url("../video/sketch/sketch.png")}
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
     .section .image-multitasking-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/multitasking_startframe__gedjonnsv6i6_large_2x.jpg")}}
+        background-image: url("../video/sketch/sketch.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) {
     .section .image-multitasking-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/multitasking_startframe__gedjonnsv6i6_medium.jpg")}}
+        background-image: url("../video/sketch/sketch.png")}}
 @media only screen and (max-width: 1375px) {
     .section .image-multitasking-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/multitasking_startframe__gedjonnsv6i6_medium.jpg")}}
+        background-image: url("../video/sketch/sketch.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) {
     .section .image-multitasking-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/multitasking_startframe__gedjonnsv6i6_medium.jpg")}}
+        background-image: url("../video/sketch/sketch.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-multitasking-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/multitasking_startframe__gedjonnsv6i6_medium_2x.jpg")}}
+        background-image: url("../video/sketch/sketch.png")}}
 @media only screen and (max-width: 1375px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1375px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-width: 1375px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1375px) and (min-resolution: 144dpi) {
     .section .image-multitasking-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/multitasking_startframe__gedjonnsv6i6_medium_2x.jpg")}}
+        background-image: url("../video/sketch/sketch.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-multitasking-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/multitasking_startframe__gedjonnsv6i6_medium_2x.jpg")}}
+        background-image: url("../video/sketch/sketch.png")}}
 html.basic-interaction .section .image-multitasking-startframe,
 html.aow .section .image-multitasking-startframe, html.no-js .section .image-multitasking-startframe,
 html.ie .section .image-multitasking-startframe, html.basic-interaction .section .image-multitasking-startframe,
@@ -438,7 +438,7 @@ html.aow .section .image-multitasking-startframe, html.no-js .section .image-mul
 html.ie .section .image-multitasking-startframe, html.basic-interaction .section .image-multitasking-startframe,
 html.aow .section .image-multitasking-startframe, html.no-js .section .image-multitasking-startframe,
 html.ie .section .image-multitasking-startframe {
-    background-image: url("/cn/ipad-pro/images/overview/multitasking_startframe__gedjonnsv6i6_small.jpg")
+    background-image: url("../video/sketch/sketch.png")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
@@ -451,7 +451,7 @@ html.ie .section .image-multitasking-startframe {
     html.ie .section .image-multitasking-startframe, html.basic-interaction .section .image-multitasking-startframe,
     html.aow .section .image-multitasking-startframe, html.no-js .section .image-multitasking-startframe,
     html.ie .section .image-multitasking-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/multitasking_startframe__gedjonnsv6i6_small_2x.jpg")
+        background-image: url("../video/sketch/sketch.png")
     }
 }
 
@@ -614,7 +614,7 @@ html.ie .section .image-ipad-rotate-startframe {
 /*wipe-up*/
 .section .image-swipe-up-endframe {
 
-    background-image: url("/cn/ipad-pro/images/overview/swipe_up_endframe__ggd8b5zsaimy_large.jpg")
+    background-image: url("../image/card.gi")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
@@ -666,7 +666,7 @@ html.ie .section .image-ipad-rotate-startframe {
 
 .section .image-swipe-up-startframe {
 
-    background-image: url("/cn/ipad-pro/images/overview/swipe_up_startframe__f82uj5ghoaq2_large.jpg")
+    background-image: url("../image/card.gi")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
@@ -762,7 +762,7 @@ html.no-js .section .image-swipe-up-endframe, html.ie .section .image-swipe-up-e
     html.no-js .section .image-swipe-up-endframe, html.ie .section .image-swipe-up-endframe,
     html.basic-interaction .section .image-swipe-up-endframe, html.aow .section .image-swipe-up-endframe,
     html.no-js .section .image-swipe-up-endframe, html.ie .section .image-swipe-up-endframe {
-        background-image: url("/cn/ipad-pro/images/overview/swipe-up_endframe__0ip3pn6av7ma_small_2x.jpg")
+        background-image: url("../image/ae.png")
     }
 }
 
@@ -789,55 +789,55 @@ html.no-js .section .image-swipe-up-startframe, html.ie .section .image-swipe-up
     html.no-js .section .image-swipe-up-startframe, html.ie .section .image-swipe-up-startframe,
     html.basic-interaction .section .image-swipe-up-startframe, html.aow .section .image-swipe-up-startframe,
     html.no-js .section .image-swipe-up-startframe, html.ie .section .image-swipe-up-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/swipe-up_startframe__fwvcf1k9n4ya_small_2x.jpg")
+        background-image: url("../image/ae.png")
     }
 }
 
 .section .image-multitasking-endframe {
    
-    background-image: url("/cn/ipad-pro/images/overview/multitasking_endframe__pwbiqxqrhuaa_large.jpg")
+    background-image: url("../video/sketch/sketch.png")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
     .section .image-multitasking-endframe {
-        background-image: url("/cn/ipad-pro/images/overview/multitasking_endframe__pwbiqxqrhuaa_large_2x.jpg")
+        background-image: url("../video/sketch/sketch.png")
     }
 }
 
 @media only screen and (max-height: 800px) and (min-width: 736px) {
     .section .image-multitasking-endframe {
        
-        background-image: url("/cn/ipad-pro/images/overview/multitasking_endframe__pwbiqxqrhuaa_medium.jpg")
+        background-image: url("../video/sketch/sketch.png")
     }
 }
 
 @media only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-multitasking-endframe {
-        background-image: url("/cn/ipad-pro/images/overview/multitasking_endframe__pwbiqxqrhuaa_medium_2x.jpg")
+        background-image: url("../video/sketch/sketch.png")
     }
 }
 @media only screen and (max-width: 1334px) {
     .section .image-multitasking-endframe {
 
-        background-image: url("/cn/ipad-pro/images/overview/multitasking_endframe__pwbiqxqrhuaa_medium.jpg")
+        background-image: url("../video/sketch/sketch.png")
     }
 }
 
 @media only screen and (max-width: 1334px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1334px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-width: 1334px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1334px) and (min-resolution: 144dpi) {
     .section .image-multitasking-endframe {
-        background-image: url("/cn/ipad-pro/images/overview/multitasking_endframe__pwbiqxqrhuaa_medium_2x.jpg")
+        background-image: url("../video/sketch/sketch.png")
     }
 }
 
 @media only screen and (max-height: 800px) and (min-width: 736px) {
     .section .image-multitasking-endframe {
-        background-image: url("/cn/ipad-pro/images/overview/multitasking_endframe__pwbiqxqrhuaa_medium.jpg")
+        background-image: url("../video/sketch/sketch.png")
     }
 }
 
 @media only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-multitasking-endframe {
-        background-image: url("/cn/ipad-pro/images/overview/multitasking_endframe__pwbiqxqrhuaa_medium_2x.jpg")
+        background-image: url("../video/sketch/sketch.png")
     }
 }
 html.basic-interaction .section .image-multitasking-endframe, html.aow .section .image-multitasking-endframe,
@@ -848,7 +848,7 @@ html.basic-interaction .section .image-multitasking-endframe, html.aow .section 
 html.no-js .section .image-multitasking-endframe, html.ie .section .image-multitasking-endframe,
 html.basic-interaction .section .image-multitasking-endframe, html.aow .section .image-multitasking-endframe,
 html.no-js .section .image-multitasking-endframe, html.ie .section .image-multitasking-endframe {
-    background-image: url("/cn/ipad-pro/images/overview/multitasking_endframe__pwbiqxqrhuaa_small.jpg")
+    background-image: url("../video/sketch/sketch.png")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
@@ -860,7 +860,7 @@ html.no-js .section .image-multitasking-endframe, html.ie .section .image-multit
     html.no-js .section .image-multitasking-endframe, html.ie .section .image-multitasking-endframe,
     html.basic-interaction .section .image-multitasking-endframe, html.aow .section .image-multitasking-endframe,
     html.no-js .section .image-multitasking-endframe, html.ie .section .image-multitasking-endframe {
-        background-image: url("/cn/ipad-pro/images/overview/multitasking_endframe__pwbiqxqrhuaa_small_2x.jpg")
+        background-image: url("../video/sketch/m.png")
     }
 }
 
@@ -912,56 +912,56 @@ background-image:url("/cn/ipad-pro/images/shared/smart_keyboard_pencil_router__b
 }
 }
 .section-router-hero.section .tile-more .tile-image{
-      background-image:url("/cn/ipad-pro/images/overview/ipad_router_overview_large.jpg");}
+      background-image:url("../image/linkcubase.jpg");}
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi){
     .section-router-hero.section .tile-more .tile-image{
-        background-image:url("/cn/ipad-pro/images/overview/ipad_router_overview_large_2x.jpg")
+        background-image:url("../image/linkcubase.jpg")
         }
 }
 @media only screen and (max-width: 1334px){
     .section-router-hero.section .tile-more .tile-image{
-        background-image:url("/cn/ipad-pro/images/overview/ipad_router_overview_medium.jpg")
+        background-image:url("../image/linkcubase.jpg")
         }
 }
 @media only screen and (max-width: 1334px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1334px) and (min-resolution: 1.5dppx), only screen and (max-width: 1334px) and (min-resolution: 144dpi){
     .section-router-hero.section .tile-more .tile-image{
-        background-image:url("/cn/ipad-pro/images/overview/ipad_router_overview_medium_2x.jpg")
+        background-image:url("../image/linkcubase.jpg")
         }
 }
 @media only screen and (max-width: 735px){.section-router-hero.section .tile-more .tile-image{
-        background-image:url("/cn/ipad-pro/images/overview/ipad_router_overview_small.jpg")
+        background-image:url("../image/linkcubase.jpg")
         }
 }
 @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi){
     .section-router-hero.section .tile-more .tile-image{
-        background-image:url("/cn/ipad-pro/images/overview/ipad_router_overview_small_2x.jpg")
+        background-image:url("../image/linkcubase.jpg")
     }
 }
 @media only screen and (max-width: 1334px){
 .section-router-hero.section .tile-more .tile-image{
-background-image:url("/cn/ipad-pro/images/overview/ipad_router_overview_medium.jpg");
+background-image:url("../image/linkcubase.jpg");
 }
 }
 @media only screen and (max-width: 1334px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1334px) and (min-resolution: 1.5dppx), only screen and (max-width: 1334px) and (min-resolution: 144dpi){
 .section-router-hero.section .tile-more .tile-image{
-background-image:url("/cn/ipad-pro/images/overview/ipad_router_overview_medium_2x.jpg")
+background-image:url("../image/linkcubase.jpg")
 }
 }
 @media only screen and (max-height: 800px) and (min-width: 736px){
 .section-router-hero.section .tile-more .tile-image{
-background-image:url("/cn/ipad-pro/images/overview/ipad_router_overview_medium.jpg");
+background-image:url("../image/linkcubase.jpg");
 }
 }
 @media only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi){
 .section-router-hero.section .tile-more .tile-image{
-background-image:url("/cn/ipad-pro/images/overview/ipad_router_overview_medium_2x.jpg")
+background-image:url("../image/linkcubase.jpg")
 }
 }
 @media only screen and (max-height: 414px) and (min-width: 736px){
 .section-router-hero.section .tile-more .tile-image{
-background-image:url("/cn/ipad-pro/images/shared/ipad_router__feckcpd8212e_small.jpg");}}
+background-image:url("../image/linkcubase.jpg");}}
 @media only screen and (max-height: 414px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 414px) and (min-width: 736px) and (min-resolution: 1.5dppx), only screen and (max-height: 414px) and (min-width: 736px) and (min-resolution: 144dpi){
-.section-router-hero.section .tile-more .tile-image{background-image:url("/cn/ipad-pro/images/shared/ipad_router__feckcpd8212e_small_2x.jpg")}}html.basic-interaction .section-router-hero.section .tile-more .tile-image,html.no-js .section-router-hero.section .tile-more .tile-image,html.forces-basic-interaction .section-router-hero.section .tile-more .tile-image,html.basic-interaction .section-router-hero.section .tile-more .tile-image,html.no-js .section-router-hero.section .tile-more .tile-image,html.forces-basic-interaction .section-router-hero.section .tile-more .tile-image,html.basic-interaction .section-router-hero.section .tile-more .tile-image,html.no-js .section-router-hero.section .tile-more .tile-image,html.forces-basic-interaction .section-router-hero.section .tile-more .tile-image{background-image:url("/cn/ipad-pro/images/shared/ipad_router__feckcpd8212e_small.jpg");}@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi){html.basic-interaction .section-router-hero.section .tile-more .tile-image,html.no-js .section-router-hero.section .tile-more .tile-image,html.forces-basic-interaction .section-router-hero.section .tile-more .tile-image,html.basic-interaction .section-router-hero.section .tile-more .tile-image,html.no-js .section-router-hero.section .tile-more .tile-image,html.forces-basic-interaction .section-router-hero.section .tile-more .tile-image,html.basic-interaction .section-router-hero.section .tile-more .tile-image,html.no-js .section-router-hero.section .tile-more .tile-image,html.forces-basic-interaction .section-router-hero.section .tile-more .tile-image{background-image:url("/cn/ipad-pro/images/shared/ipad_router__feckcpd8212e_small_2x.jpg")}}
+.section-router-hero.section .tile-more .tile-image{background-image:url("../image/linkcubase.jpg")}}html.basic-interaction .section-router-hero.section .tile-more .tile-image,html.no-js .section-router-hero.section .tile-more .tile-image,html.forces-basic-interaction .section-router-hero.section .tile-more .tile-image,html.basic-interaction .section-router-hero.section .tile-more .tile-image,html.no-js .section-router-hero.section .tile-more .tile-image,html.forces-basic-interaction .section-router-hero.section .tile-more .tile-image,html.basic-interaction .section-router-hero.section .tile-more .tile-image,html.no-js .section-router-hero.section .tile-more .tile-image,html.forces-basic-interaction .section-router-hero.section .tile-more .tile-image{background-image:url("../image/linkcubase.jpg");}@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi){html.basic-interaction .section-router-hero.section .tile-more .tile-image,html.no-js .section-router-hero.section .tile-more .tile-image,html.forces-basic-interaction .section-router-hero.section .tile-more .tile-image,html.basic-interaction .section-router-hero.section .tile-more .tile-image,html.no-js .section-router-hero.section .tile-more .tile-image,html.forces-basic-interaction .section-router-hero.section .tile-more .tile-image,html.basic-interaction .section-router-hero.section .tile-more .tile-image,html.no-js .section-router-hero.section .tile-more .tile-image,html.forces-basic-interaction .section-router-hero.section .tile-more .tile-image{background-image:url("../image/linkcubase.jpg")}}
 
 
 /*end */
