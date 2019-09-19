@@ -5506,7 +5506,7 @@
 				function t(e) {
 					r(this, t);
 					var n = i(this, (t.__proto__ || Object.getPrototypeOf(t)).call(this, e));
-					return n.options = n.getOptions("data-video"), n.noReplay = n.options.noReplay || !0, n.customURL = n.el.getAttribute("data-video-base-url"), n.defaultURL = "/video/", n.baseURL = n.customURL ? n.customURL : n.defaultURL, n
+					return n.options = n.getOptions("data-video"), n.noReplay = n.options.noReplay || !0, n.customURL = n.el.getAttribute("data-video-base-url"), n.defaultURL = "./video/", n.baseURL = n.customURL ? n.customURL : n.defaultURL, n
 				}
 				return o(t, e), s(t, [{
 					key: "bindEvents",

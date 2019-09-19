@@ -340,12 +340,12 @@ html.no-js .section .image-2x-faster-text, html.ie .section .image-2x-faster-tex
     height: 30px;
     background-size: 181px 30px;
     background-repeat: no-repeat;
-    background-image: url("/cn/ipad-pro/images/overview/hand-writing/change_tools_text__earaz7zmaigm_large.png")
+    background-image: url("../image/t1.png")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
     .section .image-change-tools-text {
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/change_tools_text__earaz7zmaigm_large_2x.png")
+        background-image: url("../image/t1.png")
     }
 }
 
@@ -355,13 +355,13 @@ html.no-js .section .image-2x-faster-text, html.ie .section .image-2x-faster-tex
         height: 25px;
         background-size: 154px 25px;
         background-repeat: no-repeat;
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/change_tools_text__earaz7zmaigm_medium.png")
+        background-image: url("../image/t1.png")
     }
 }
 
 @media only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-change-tools-text {
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/change_tools_text__earaz7zmaigm_medium_2x.png")
+        background-image: url("../image/t1.png")
     }
 }
 
@@ -370,13 +370,13 @@ html.no-js .section .image-2x-faster-text, html.ie .section .image-2x-faster-tex
         width: 154px;
         height: 25px;
         background-size: 154px 25px;
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/change_tools_text__earaz7zmaigm_medium.png")
+        background-image: url("../image/t1.png")
     }
 }
 
 @media only screen and (max-width: 1240px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1240px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-width: 1240px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1240px) and (min-resolution: 144dpi) {
     .section .image-change-tools-text {
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/change_tools_text__earaz7zmaigm_medium_2x.png")
+        background-image: url("../image/t1.png")
     }
 }
 
@@ -385,13 +385,13 @@ html.no-js .section .image-2x-faster-text, html.ie .section .image-2x-faster-tex
         width: 154px;
         height: 25px;
         background-size: 154px 25px;
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/change_tools_text__earaz7zmaigm_medium.png")
+        background-image: url("../image/t1.png")
     }
 }
 
 @media only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-change-tools-text {
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/change_tools_text__earaz7zmaigm_medium_2x.png")
+        background-image: url("../image/t1.png")
     }
 }
 
@@ -451,12 +451,12 @@ html.no-js .section .image-change-tools-text, html.ie .section .image-change-too
     height: 22px;
     background-size: 213px 22px;
     background-repeat: no-repeat;
-    background-image: url("/cn/ipad-pro/images/overview/hand-writing/flat_surface_text__bsgcbk6e5tde_large.png")
+    background-image: url("../image/t2.png")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
     .section .image-flat-surface-text {
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/flat_surface_text__bsgcbk6e5tde_large_2x.png")
+        background-image: url("../image/t2.png")
     }
 }
 
@@ -466,13 +466,13 @@ html.no-js .section .image-change-tools-text, html.ie .section .image-change-too
         height: 17px;
         background-size: 172px 17px;
         background-repeat: no-repeat;
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/flat_surface_text__bsgcbk6e5tde_medium.png")
+        background-image: url("../image/t2.png")
     }
 }
 
 @media only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-flat-surface-text {
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/flat_surface_text__bsgcbk6e5tde_medium_2x.png")
+        background-image: url("../image/t2.png")
     }
 }
 
@@ -481,13 +481,13 @@ html.no-js .section .image-change-tools-text, html.ie .section .image-change-too
         width: 172px;
         height: 17px;
         background-size: 172px 17px;
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/flat_surface_text__bsgcbk6e5tde_medium.png")
+        background-image: url("../image/t2.png")
     }
 }
 
 @media only screen and (max-width: 1240px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1240px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-width: 1240px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1240px) and (min-resolution: 144dpi) {
     .section .image-flat-surface-text {
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/flat_surface_text__bsgcbk6e5tde_medium_2x.png")
+        background-image: url("../image/t2.png")
     }
 }
 
@@ -496,13 +496,13 @@ html.no-js .section .image-change-tools-text, html.ie .section .image-change-too
         width: 172px;
         height: 17px;
         background-size: 172px 17px;
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/flat_surface_text__bsgcbk6e5tde_medium.png")
+        background-image: url("../image/t2.png")
     }
 }
 
 @media only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-flat-surface-text {
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/flat_surface_text__bsgcbk6e5tde_medium_2x.png")
+        background-image: url("../image/t2.png")
     }
 }
 
@@ -671,12 +671,12 @@ html.no-js .section .image-runs-pro-apps-text, html.ie .section .image-runs-pro-
     height: 25px;
     background-size: 113px 25px;
     background-repeat: no-repeat;
-    background-image: url("/cn/ipad-pro/images/overview/hand-writing/seamless_design_text__e9vavmmyabu6_large.png")
+    background-image: url("../image/t3.png")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
     .section .image-seamless-design-text {
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/seamless_design_text__e9vavmmyabu6_large_2x.png")
+        background-image: url("../image/t3.png")
     }
 }
 
@@ -686,13 +686,13 @@ html.no-js .section .image-runs-pro-apps-text, html.ie .section .image-runs-pro-
         height: 20px;
         background-size: 93px 20px;
         background-repeat: no-repeat;
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/seamless_design_text__e9vavmmyabu6_medium.png")
+        background-image: url("../image/t3.png")
     }
 }
 
 @media only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-seamless-design-text {
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/seamless_design_text__e9vavmmyabu6_medium_2x.png")
+        background-image: url("../image/t3.png")
     }
 }
 
@@ -701,13 +701,13 @@ html.no-js .section .image-runs-pro-apps-text, html.ie .section .image-runs-pro-
         width: 93px;
         height: 20px;
         background-size: 93px 20px;
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/seamless_design_text__e9vavmmyabu6_medium.png")
+        background-image: url("../image/t3.png")
     }
 }
 
 @media only screen and (max-width: 1240px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1240px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-width: 1240px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1240px) and (min-resolution: 144dpi) {
     .section .image-seamless-design-text {
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/seamless_design_text__e9vavmmyabu6_medium_2x.png")
+        background-image: url("../image/t3.png")
     }
 }
 
@@ -716,13 +716,13 @@ html.no-js .section .image-runs-pro-apps-text, html.ie .section .image-runs-pro-
         width: 93px;
         height: 20px;
         background-size: 93px 20px;
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/seamless_design_text__e9vavmmyabu6_medium.png")
+        background-image: url("../image/t3.png")
     }
 }
 
 @media only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-seamless-design-text {
-        background-image: url("/cn/ipad-pro/images/overview/hand-writing/seamless_design_text__e9vavmmyabu6_medium_2x.png")
+        background-image: url("../image/t3.png")
     }
 }
 

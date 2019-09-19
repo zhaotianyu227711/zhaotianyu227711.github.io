@@ -119,28 +119,28 @@ html.no-js .section .image-face-id, html.ie .section .image-face-id {
 }
 
 .section .image-games-screen {
-    background-image: url("../image/app.png")}
+    background-image: url("../image/pp1.jpg")}
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
     .section .image-games-screen {
-        background-image: url("/cn/ipad-pro/images/overview/games_screen__dvzqlw0xhv8m_large_2x.jpg")}}
+        background-image: url("../image/pp1.jpg")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) {
     .section .image-games-screen {
-        background-image: url("/cn/ipad-pro/images/overview/games_screen__dvzqlw0xhv8m_medium.jpg")}}
+        background-image: url("../image/pp1.jpg")}}
 @media only screen and (max-width: 1240px) {
     .section .image-games-screen {
-        background-image: url("/cn/ipad-pro/images/overview/games_screen__dvzqlw0xhv8m_medium.jpg")}}
+        background-image: url("../image/pp1.jpg")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) {
     .section .image-games-screen {
-        background-image: url("/cn/ipad-pro/images/overview/games_screen__dvzqlw0xhv8m_medium.jpg")}}
+        background-image: url("../image/pp1.jpg")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-games-screen {
-        background-image: url("/cn/ipad-pro/images/overview/games_screen__dvzqlw0xhv8m_medium_2x.jpg")}}
+        background-image: url("../image/pp1.jpg")}}
 @media only screen and (max-width: 1240px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1240px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-width: 1240px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1240px) and (min-resolution: 144dpi) {
     .section .image-games-screen {
-        background-image: url("/cn/ipad-pro/images/overview/games_screen__dvzqlw0xhv8m_medium_2x.jpg")}}
+        background-image: url("../image/pp1.jpg")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-games-screen {
-        background-image: url("/cn/ipad-pro/images/overview/games_screen__dvzqlw0xhv8m_medium_2x.jpg")}}
+        background-image: url("../image/pp1.jpg")}}
 
 html.basic-interaction .section .image-games-screen, html.aow .section .image-games-screen,
 html.no-js .section .image-games-screen, html.ie .section .image-games-screen,
@@ -150,7 +150,7 @@ html.basic-interaction .section .image-games-screen, html.aow .section .image-ga
 html.no-js .section .image-games-screen, html.ie .section .image-games-screen,
 html.basic-interaction .section .image-games-screen, html.aow .section .image-games-screen,
 html.no-js .section .image-games-screen, html.ie .section .image-games-screen {
-    background-image: url("/cn/ipad-pro/images/overview/games_screen__dvzqlw0xhv8m_small.jpg")
+    background-image: url("../image/pp1s.jpg")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
@@ -162,7 +162,7 @@ html.no-js .section .image-games-screen, html.ie .section .image-games-screen {
     html.no-js .section .image-games-screen, html.ie .section .image-games-screen,
     html.basic-interaction .section .image-games-screen, html.aow .section .image-games-screen,
     html.no-js .section .image-games-screen, html.ie .section .image-games-screen {
-        background-image: url("/cn/ipad-pro/images/overview/games_screen__dvzqlw0xhv8m_small_2x.jpg")
+        background-image: url("../image/pp1s.jpg")
     }
 }
 
@@ -334,28 +334,28 @@ html.no-js .section .image-apple-pay-startframe, html.ie .section .image-apple-p
     }
 }
 .section .image-double-tap-startframe {
-    background-image: url("/cn/ipad-pro/images/overview/double-tap_startframe__btwumstldzle_large.jpg")}
+    background-image: url("../image/suidao.jpg")}
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
     .section .image-double-tap-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/double-tap_startframe__btwumstldzle_large_2x.jpg")}}
+        background-image: url("../image/suidao.jpg")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) {
     .section .image-double-tap-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/double-tap_startframe__btwumstldzle_medium.jpg")}}
+        background-image: url("../image/suidao.jpg")}}
 @media only screen and (max-width: 1375px) {
     .section .image-double-tap-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/double-tap_startframe__btwumstldzle_medium.jpg")}}
+        background-image: url("../image/suidao.jpg")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) {
     .section .image-double-tap-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/double-tap_startframe__btwumstldzle_medium.jpg")}}
+        background-image: url("../image/suidao.jpg")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-double-tap-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/double-tap_startframe__btwumstldzle_medium_2x.jpg")}}
+        background-image: url("../image/suidao.jpg")}}
 @media only screen and (max-width: 1375px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1375px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-width: 1375px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1375px) and (min-resolution: 144dpi) {
     .section .image-double-tap-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/double-tap_startframe__btwumstldzle_medium_2x.jpg")}}
+        background-image: url("../image/suidao.jpg")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-double-tap-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/double-tap_startframe__btwumstldzle_medium_2x.jpg")}}
+        background-image: url("../image/suidao.jpg")}}
 
 html.basic-interaction .section .image-double-tap-startframe, html.aow .section .image-double-tap-startframe,
 html.no-js .section .image-double-tap-startframe, html.ie .section .image-double-tap-startframe,
@@ -365,7 +365,7 @@ html.basic-interaction .section .image-double-tap-startframe, html.aow .section 
 html.no-js .section .image-double-tap-startframe, html.ie .section .image-double-tap-startframe,
 html.basic-interaction .section .image-double-tap-startframe, html.aow .section .image-double-tap-startframe,
 html.no-js .section .image-double-tap-startframe, html.ie .section .image-double-tap-startframe {
-    background-image: url("/cn/ipad-pro/images/overview/double-tap_startframe__btwumstldzle_small.jpg")
+    background-image: url("../image/suidaos.jpg")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
@@ -377,7 +377,7 @@ html.no-js .section .image-double-tap-startframe, html.ie .section .image-double
     html.no-js .section .image-double-tap-startframe, html.ie .section .image-double-tap-startframe,
     html.basic-interaction .section .image-double-tap-startframe, html.aow .section .image-double-tap-startframe,
     html.no-js .section .image-double-tap-startframe, html.ie .section .image-double-tap-startframe {
-        background-image: url("/cn/ipad-pro/images/overview/double-tap_startframe__btwumstldzle_small_2x.jpg")
+        background-image: url("../image/suidaos.jpg")
     }
 }
 
@@ -390,7 +390,7 @@ html.basic-interaction .section .image-double-tap-endframe, html.aow .section .i
 html.no-js .section .image-double-tap-endframe, html.ie .section .image-double-tap-endframe,
 html.basic-interaction .section .image-double-tap-endframe, html.aow .section .image-double-tap-endframe,
 html.no-js .section .image-double-tap-endframe, html.ie .section .image-double-tap-endframe {
-    background-image: url("/cn/ipad-pro/images/overview/double-tap_endframe__buhb0m2c7rma_small.jpg")
+    background-image: url("../image/suidaos.jpg")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
@@ -402,7 +402,7 @@ html.no-js .section .image-double-tap-endframe, html.ie .section .image-double-t
     html.no-js .section .image-double-tap-endframe, html.ie .section .image-double-tap-endframe,
     html.basic-interaction .section .image-double-tap-endframe, html.aow .section .image-double-tap-endframe,
     html.no-js .section .image-double-tap-endframe, html.ie .section .image-double-tap-endframe {
-        background-image: url("/cn/ipad-pro/images/overview/double-tap_endframe__buhb0m2c7rma_small_2x.jpg")
+        background-image: url("../image/suidaos.jpg")
     }
 }
 
