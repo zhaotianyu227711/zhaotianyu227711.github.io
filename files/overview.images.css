@@ -239,28 +239,28 @@ html.no-js .section .image-retina-screen-2, html.ie .section .image-retina-scree
 }
 
 .section .image-usb-c-screen {
-    background-image: url("/cn/ipad-pro/images/overview/usb_c_screen__ems2xs6v94wi_large.jpg")}
+    background-image: url("../image/pp2.png")}
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
     .section .image-usb-c-screen {
-        background-image: url("/cn/ipad-pro/images/overview/usb_c_screen__ems2xs6v94wi_large_2x.jpg")}}
+        background-image: url("../image/pp2.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) {
     .section .image-usb-c-screen {
-        background-image: url("/cn/ipad-pro/images/overview/usb_c_screen__ems2xs6v94wi_medium.jpg")}}
+        background-image: url("../image/pp2.png")}}
 @media only screen and (max-width: 1240px) {
     .section .image-usb-c-screen {
-        background-image: url("/cn/ipad-pro/images/overview/usb_c_screen__ems2xs6v94wi_medium.jpg")}}
+        background-image: url("../image/pp2.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) {
     .section .image-usb-c-screen {
-        background-image: url("/cn/ipad-pro/images/overview/usb_c_screen__ems2xs6v94wi_medium.jpg")}}
+        background-image: url("../image/pp2.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-usb-c-screen {
-        background-image: url("/cn/ipad-pro/images/overview/usb_c_screen__ems2xs6v94wi_medium_2x.jpg")}}
+        background-image: url("../image/pp2.png")}}
 @media only screen and (max-width: 1240px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1240px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-width: 1240px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1240px) and (min-resolution: 144dpi) {
     .section .image-usb-c-screen {
-        background-image: url("/cn/ipad-pro/images/overview/usb_c_screen__ems2xs6v94wi_medium_2x.jpg")}}
+        background-image: url("../image/pp2.png")}}
 @media only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (max-height: 800px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi) {
     .section .image-usb-c-screen {
-        background-image: url("/cn/ipad-pro/images/overview/usb_c_screen__ems2xs6v94wi_medium_2x.jpg")}}
+        background-image: url("../image/pp2.png")}}
 
 html.basic-interaction .section .image-usb-c-screen, html.aow .section .image-usb-c-screen,
 html.no-js .section .image-usb-c-screen, html.ie .section .image-usb-c-screen,
@@ -270,7 +270,7 @@ html.basic-interaction .section .image-usb-c-screen, html.aow .section .image-us
 html.no-js .section .image-usb-c-screen, html.ie .section .image-usb-c-screen,
 html.basic-interaction .section .image-usb-c-screen, html.aow .section .image-usb-c-screen,
 html.no-js .section .image-usb-c-screen, html.ie .section .image-usb-c-screen {
-    background-image: url("/cn/ipad-pro/images/overview/usb_c_screen__ems2xs6v94wi_small.jpg")
+    background-image: url("../image/pp2.png")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
@@ -282,7 +282,7 @@ html.no-js .section .image-usb-c-screen, html.ie .section .image-usb-c-screen {
     html.no-js .section .image-usb-c-screen, html.ie .section .image-usb-c-screen,
     html.basic-interaction .section .image-usb-c-screen, html.aow .section .image-usb-c-screen,
     html.no-js .section .image-usb-c-screen, html.ie .section .image-usb-c-screen {
-        background-image: url("/cn/ipad-pro/images/overview/usb_c_screen__ems2xs6v94wi_small_2x.jpg")
+        background-image: url("../image/pp2.png")
     }
 }
 
@@ -868,47 +868,47 @@ html.no-js .section .image-multitasking-endframe, html.ie .section .image-multit
 /*end */
 
 .section-router.section .image-smart-keyboard-pencil{
-    background-image:url("/cn/ipad-pro/images/overview/smart_keyboard_pencil_router_overview__ffsjjxe73i62_large.jpg");
+    background-image:url("../image/xuewei.jpg");
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi){
     .section-router.section .image-smart-keyboard-pencil{
-        background-image:url("/cn/ipad-pro/images/overview/smart_keyboard_pencil_router_overview__ffsjjxe73i62_large_2x.jpg")
+        background-image:url("../image/xuewei.jpg")
         }
 }
 @media only screen and (max-width: 1334px){
     .section-router.section .image-smart-keyboard-pencil{
-        background-image:url("/cn/ipad-pro/images/overview/smart_keyboard_pencil_router_overview__ffsjjxe73i62_medium.jpg")
+        background-image:url("../image/xuewei.jpg")
         }
     }
 @media only screen and (max-width: 1334px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1334px) and (min-resolution: 1.5dppx), only screen and (max-width: 1334px) and (min-resolution: 144dpi){
     .section-router.section .image-smart-keyboard-pencil{
-        background-image:url("/cn/ipad-pro/images/overview/smart_keyboard_pencil_router_overview__ffsjjxe73i62_medium_2x.jpg")
+        background-image:url("../image/xuewei.jpg")
         }
 }
 @media only screen and (max-height: 800px) and (min-width: 736px){
     .section-router.section .image-smart-keyboard-pencil{
-        background-image:url("/cn/ipad-pro/images/overview/smart_keyboard_pencil_router_overview__ffsjjxe73i62_medium.jpg");
+        background-image:url("../image/xuewei.jpg");
         }
 }
 @media only screen and (max-height: 800px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 1.5dppx), only screen and (max-height: 800px) and (min-width: 736px) and (min-resolution: 144dpi){
     .section-router.section .image-smart-keyboard-pencil{
-        background-image:url("/cn/ipad-pro/images/overview/smart_keyboard_pencil_router_overview__ffsjjxe73i62_medium_2x.jpg")
+        background-image:url("../image/xuewei.jpg")
         }
 }
 @media only screen and (max-height: 414px) and (min-width: 736px){
      .section-router.section .image-smart-keyboard-pencil{
-    background-image:url("/cn/ipad-pro/images/shared/smart_keyboard_pencil_router__bpy1sf6vmieq_small.jpg")
+    background-image:url("../image/xuewei.jpg")
     }
 }
 @media only screen and (max-height: 414px) and (min-width: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-height: 414px) and (min-width: 736px) and (min-resolution: 1.5dppx), only screen and (max-height: 414px) and (min-width: 736px) and (min-resolution: 144dpi){
 .section-router.section .image-smart-keyboard-pencil{
-       background-image:url("/cn/ipad-pro/images/shared/smart_keyboard_pencil_router__bpy1sf6vmieq_small_2x.jpg")
+       background-image:url("../image/xuewei.jpg")
        }
 }
 html.basic-interaction .section-router.section .image-smart-keyboard-pencil,html.no-js .section-router.section .image-smart-keyboard-pencil,html.forces-basic-interaction .section-router.section .image-smart-keyboard-pencil,html.basic-interaction .section-router.section .image-smart-keyboard-pencil,html.no-js .section-router.section .image-smart-keyboard-pencil,html.forces-basic-interaction .section-router.section .image-smart-keyboard-pencil,html.basic-interaction .section-router.section .image-smart-keyboard-pencil,html.no-js .section-router.section .image-smart-keyboard-pencil,html.forces-basic-interaction .section-router.section .image-smart-keyboard-pencil{
-background-image:url("/cn/ipad-pro/images/shared/smart_keyboard_pencil_router__bpy1sf6vmieq_small.jpg");
+background-image:url("../image/xueweis.jpg");
 }@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi){html.basic-interaction .section-router.section .image-smart-keyboard-pencil,html.no-js .section-router.section .image-smart-keyboard-pencil,html.forces-basic-interaction .section-router.section .image-smart-keyboard-pencil,html.basic-interaction .section-router.section .image-smart-keyboard-pencil,html.no-js .section-router.section .image-smart-keyboard-pencil,html.forces-basic-interaction .section-router.section .image-smart-keyboard-pencil,html.basic-interaction .section-router.section .image-smart-keyboard-pencil,html.no-js .section-router.section .image-smart-keyboard-pencil,html.forces-basic-interaction .section-router.section .image-smart-keyboard-pencil{
-background-image:url("/cn/ipad-pro/images/shared/smart_keyboard_pencil_router__bpy1sf6vmieq_small_2x.jpg")
+background-image:url("../image/xueweis.jpg")
 }
 }
 .section-router-hero.section .tile-more .tile-image{
